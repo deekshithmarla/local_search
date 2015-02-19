@@ -1,6 +1,6 @@
-README
+####README
 
-Step: 1
+##Step 1:
 python local_search.py *path-to-directory*
 
 #path-to-directory* is the path of the directory where the search has to be operated.
@@ -13,7 +13,9 @@ python local_search.py /home/Deeks/Documents/Wikipedia/
 Once you run the above code, the engine starts building the indexes which takes not more than 2 mins.
 
 
-Sample Queries:
+##Step 2:
+
+#Sample Queries:
 
 Natural* "Intelligent Systems"
 
