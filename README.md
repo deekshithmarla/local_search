@@ -15,7 +15,7 @@ Once you run the above code, the engine starts building the indexes which takes 
 
 ##Step 2:
 
-###Sample Queries: Natural* "Intelligent Systems"
+#####Sample Query: Natural* "Intelligent Systems"
 
 Result:
 The query found in documents [214.txt, 1654.txt, 7616.txt]
