@@ -1,9 +1,9 @@
-####README
+#README
 
 ##Step 1:
 python local_search.py *path-to-directory*
 
-#path-to-directory* is the path of the directory where the search has to be operated.
+*path-to-directory* is the path of the directory where the search has to be operated.
 
 Example:
 
@@ -15,9 +15,7 @@ Once you run the above code, the engine starts building the indexes which takes 
 
 ##Step 2:
 
-#Sample Queries:
-
-Natural* "Intelligent Systems"
+###Sample Queries: Natural* "Intelligent Systems"
 
 Result:
 The query found in documents [214.txt, 1654.txt, 7616.txt]
