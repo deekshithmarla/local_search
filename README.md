@@ -1,7 +1,7 @@
 ####README
 
 ##Step 1:
-python local_search.py **path-to-directory*
+python local_search.py *path-to-directory*
 
 #path-to-directory* is the path of the directory where the search has to be operated.
 
